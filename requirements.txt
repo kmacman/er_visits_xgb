@@ -8,3 +8,4 @@ statsmodels
 itertools
 xgboost
 meteostat
+holidays
